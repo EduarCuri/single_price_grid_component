@@ -1,6 +1,6 @@
 <h1 align="center">SINGLE PRICE GRID COMPONENT</h1>
 
-Card diseñado para una sitio web de ventas, muestra la imagen del producto con un titulo principal y una breve descripción del mismo, ademas se puede apreciar el precio actual a diferencia del original e incluye un boton para añadirlo al carrito de compras.
+Panel de información que muestra los beneficios de suscripción a una comunidad, tiene un area en el la cual podemos ver porqué unirnos y finalmente el area donde indica el precio y un boton que nos puede llevar a una pasarela de pago final.
 
 <h2>Herramientas utilizadas<h2>
 
@@ -13,7 +13,7 @@ Card diseñado para una sitio web de ventas, muestra la imagen del producto con 
 
 <h2>Version de escritorio</h2>
 
-El card es totalmente responsive y en la versión de escritorio cambia se apariencia, mostrando la imagen en un mayor tamaño al lado izquierdo de la información, todo esto sin alterar la estética de la presentación del card.
+La versión desktop tiene una distribución realizada con Grid y puede mostrar información sobre algun servicio determinado y un boton el cual puede llevar a una pasarela de pago.
 
 ![card QR version desktop](./design/desktop-design.jpg)
 
